@@ -1,0 +1,1 @@
+exit('*** Верно! *** Это ' + answer) if answer == planet else None
